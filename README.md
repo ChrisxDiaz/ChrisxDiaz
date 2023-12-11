@@ -35,7 +35,7 @@
 
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/channel/UCM9gRREHoJJdiaWcBSIoN6g
-[instagram]: [https://www.instagram.com/joshmadakor/](https://www.instagram.com/christopherxdiaz/)
+[instagram]: (https://www.instagram.com/christopherxdiaz/)
 [linkedin]: https://www.linkedin.com/in/christopherdiazcxd/
 
 <!--
