@@ -33,9 +33,9 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
+[twitter]: https://twitter.com/ChrisX_Diaz
 [youtube]: https://www.youtube.com/channel/UCM9gRREHoJJdiaWcBSIoN6g
-[instagram]: (https://www.instagram.com/christopherxdiaz/)
+[instagram]: (https://www.instagram.com/christopherxdiaz/
 [linkedin]: https://www.linkedin.com/in/christopherdiazcxd/
 
 <!--
